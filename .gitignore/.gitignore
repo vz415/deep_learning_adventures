@@ -103,3 +103,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# tensorflow event files for tensorboard
+*.logs*
